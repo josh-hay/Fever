@@ -1,0 +1,22 @@
+{
+  "name": "Fever",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fever.js",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "discord-buttons": "^4.0.0",
+    "dotenv": "^10.0.0",
+    "fs": "^0.0.1-security",
+    "humanize-duration": "^3.27.0",
+    "path": "^0.12.7",
+    "table": "^6.7.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
